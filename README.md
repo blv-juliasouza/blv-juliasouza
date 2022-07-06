@@ -1,4 +1,4 @@
-Maria Júlia Cristofoletti de Souza
+Maria Júlia Cristofoletti de Souza <br>
 Associate Software Engineer (Data Science) @Enrichment-squad
 <!---
 - 👋 Hi, I’m @bvl-juliasouza
